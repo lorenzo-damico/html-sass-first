@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+// VARIABILI
+$title_color: blue;
+
+
+// STILE
+body {
+  background-color: lightgrey;
+  padding: 20px;
+}
+h2 {
+  color: $title_color;
+}
+
+h3 {
+  color: $title_color;
+}
